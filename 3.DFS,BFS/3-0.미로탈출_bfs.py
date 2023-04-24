@@ -33,3 +33,7 @@ def bfs(x, y):
 
 # bfs를 수행한 결과 출력
 print(bfs(0, 0))
+
+for i in graph:
+  print(i)
+
